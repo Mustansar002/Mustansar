@@ -1,0 +1,1103 @@
+{
+    "hatchbacks": {
+        "details": [
+            {
+                "description": "This is Suzuki Alto. It has three variants VX, VXR, and VXL AGS. It has a 660 CC three-cylinder engine that can produce 39 horsepower and 56 NM of torque. It drives the front wheel only via either a 5-speed manual transmission or a 5-speed AGS transmission. Its weight is over 700 kilos. It can provide a fuel average of 17-19 kmpl in the city and 20-22 kmpl on the highway."
+            },
+            {
+                "description": "This is Suzuki Wagon R. It has three variants VXR, VXL, and AGS. It has a 1000 CC three-cylinder engine that can produce 67 horsepower and 90 NM of torque. It drives the front wheel only via either a 5-speed manual transmission or an automatic transmission. Its weight is around 830 kilos. It can provide a fuel average of 14-16 kmpl in the city and 18-20 kmpl on the highway."
+            },
+            {
+                "description": "This is Kia Picanto. It has two variants 1.0L Manual and 1.0L Automatic. It has a 1000 CC three-cylinder engine that can produce 69 horsepower and 95 NM of torque. It drives the front wheel only via either a 5-speed manual transmission or a 4-speed automatic transmission. Its weight is around 860 kilos. It can provide a fuel average of 14-15 kmpl in the city and 17-18 kmpl on the highway."
+            },
+            {
+                "description": "This is Suzuki Swift. It has three variants GL, GLX, and GLX CVT. It has a 1200 CC four-cylinder engine that can produce 82 horsepower and 113 NM of torque. It drives the front wheel only via either a 5-speed manual transmission or a CVT (Continuously Variable Transmission). Its weight is around 875 kilos. It can provide a fuel average of 15-18 kmpl in the city and 20-22 kmpl on the highway."
+            }
+        ],
+        "make": [
+            {
+                "name": "Suzuki"
+            },
+            {
+                "name": "Suzuki"
+            },
+            {
+                "name": "Kia"
+            },
+            {
+                "name": "Suzuki"
+            }
+        ],
+        "model": [
+            {
+                "name": "Alto"
+            },
+            {
+                "name": "Wagon R"
+            },
+            {
+                "name": "Picanto"
+            },
+            {
+                "name": "Swift"
+            }
+        ],
+        "price": [
+            {
+                "range": "From PKR 2,251,000 to PKR 3,148,000"
+            },
+            {
+                "range": "From PKR 3,214,000 to PKR 3,741,000"
+            },
+            {
+                "range": "From PKR 3,350,000 to PKR 3,825,000"
+            },
+            {
+                "range": "From PKR 4,256,000 to PKR 4,960,000"
+            }
+        ],
+        "images": [
+            {
+                "path": "assets/images/alto.png"
+            },
+            {
+                "path": "assets/images/wagonr.png"
+            },
+            {
+                "path": "assets/images/picanto.png"
+            },
+            {
+                "path": "assets/images/swift.png"
+            }
+        ],
+        "names": [
+            {
+                "name": "Suzuki Alto"
+            },
+            {
+                "name": "Suzuki Wagon-R"
+            },
+            {
+                "name": "Kia Picanto"
+            },
+            {
+                "name": "Suzuki Swift"
+            }
+        ]
+    },
+    "sedans": {
+        "details": [
+            {
+                "description": "This is Honda City. It has multiple variants including 1.2L MT, 1.2L CVT, 1.5L CVT, and Aspire 1.5L MT/CVT. It has a 1500 CC four-cylinder engine that can produce 118 horsepower and 145 NM of torque. It drives the front wheel only via either a 5-speed manual transmission or a CVT (Continuously Variable Transmission). Its weight is around 1100-1150 kilos. It can provide a fuel average of 12-14 kmpl in the city and 16-18 kmpl on the highway."
+            },
+            {
+                "description": "This is Toyota Yaris. It has multiple variants including GLI MT 1.3, GLI CVT 1.3, ATIV MT 1.3, ATIV CVT 1.3, ATIV X MT 1.5, and ATIV X CVT 1.5. It has a 1300 CC or 1500 CC four-cylinder engine that can produce 98-106 horsepower and 123-140 NM of torque. It drives the front wheel only via either a 5-speed manual transmission or a CVT (Continuously Variable Transmission). Its weight is around 1120-1140 kilos. It can provide a fuel average of 14-16 kmpl in the city and 16-18 kmpl on the highway."
+            },
+            {
+                "description": "This is Proton Saga. It has three variants Standard MT, Standard AT, and Premium AT. It has a 1300 CC four-cylinder engine that can produce 94 horsepower and 120 NM of torque. It drives the front wheel only via either a 5-speed manual transmission or a 4-speed automatic transmission. Its weight is around 1035 kilos. It can provide a fuel average of 12-14 kmpl in the city and 16-18 kmpl on the highway."
+            },
+            {
+                "description": "This is Changan Alsvin. It has three variants 1.3L MT Comfort, 1.5L DCT Comfort, and 1.5L DCT Lumiere. It has a 1370 CC or 1480 CC four-cylinder engine that can produce 95-105 horsepower and 135-145 NM of torque. It drives the front wheel only via either a 5-speed manual transmission or a 5-speed DCT (Dual Clutch Transmission). Its weight is around 1100-1150 kilos. It can provide a fuel average of 12-14 kmpl in the city and 15-17 kmpl on the highway."
+            }
+        ],
+        "make": [
+            {
+                "name": "Honda"
+            },
+            {
+                "name": "Toyota"
+            },
+            {
+                "name": "Proton"
+            },
+            {
+                "name": "Changan"
+            }
+        ],
+        "model": [
+            {
+                "name": "City"
+            },
+            {
+                "name": "Yaris"
+            },
+            {
+                "name": "Saga"
+            },
+            {
+                "name": "Alsvin"
+            }
+        ],
+        "price": [
+            {
+                "range": "From PKR 4,799,000 to PKR 5,979,000"
+            },
+            {
+                "range": "From PKR 4,499,000 to PKR 5,729,000"
+            },
+            {
+                "range": "From PKR 3,699,000 to PKR 4,149,000"
+            },
+            {
+                "range": "From PKR 4,149,000 to PKR 4,999,000"
+            }
+        ],
+        "images": [
+            {
+                "path": "assets/images/city.png"
+            },
+            {
+                "path": "assets/images/yaris.png"
+            },
+            {
+                "path": "assets/images/saga.png"
+            },
+            {
+                "path": "assets/images/alsvin.png"
+            }
+        ],
+        "names": [
+            {
+                "name": "Honda City"
+            },
+            {
+                "name": "Toyota Yaris"
+            },
+            {
+                "name": "Proton Saga"
+            },
+            {
+                "name": "Changan Alsvin"
+            }
+        ]
+    },
+    "saloons": {
+        "details": [
+            {
+                "description": "This is Honda Civic X. It has three variants 1.8 i-VTEC, 1.8 i-VTEC Oriel, and 1.5 VTEC Turbo. It has a 1799 CC four-cylinder engine that can produce 138 horsepower and 169 NM of torque (1.8 variants) and a 1498 CC turbocharged four-cylinder engine that can produce 170 horsepower and 220 NM of torque (1.5 Turbo variant). It drives the front wheel only via either a CVT or a 6-speed manual transmission (available in specific markets). Its weight is over 1300 kilos. It can provide a fuel average of 10-12 kmpl in the city and 14-16 kmpl on the highway."
+            },
+            {
+                "description": "This is Toyota Corolla Altis Grande. It has two variants Altis Grande 1.8 CVT-i and Altis Grande 1.8 CVT-i Special Edition. It has a 1798 CC four-cylinder engine that can produce 138 horsepower and 173 NM of torque. It drives the front wheel only via a CVT transmission with 7-speed Sport Sequential Shiftmatic. Its weight is over 1300 kilos. It can provide a fuel average of 11-13 kmpl in the city and 14-16 kmpl on the highway."
+            },
+            {
+                "description": "This is Hyundai Elantra. It has two variants GLS and GLX. It has a 1999 CC four-cylinder engine that can produce 154 horsepower and 195 NM of torque. It drives the front wheel only via a 6-speed automatic transmission. Its weight is over 1200 kilos. It can provide a fuel average of 10-12 kmpl in the city and 12-15 kmpl on the highway."
+            },
+            {
+                "description": "This is Hyundai Sonata. It has three variants 2.0, 2.5, and 2.5T. It has a 1999 CC four-cylinder engine that can produce 152 horsepower and 192 NM of torque (2.0 variant), a 2497 CC four-cylinder engine that can produce 191 horsepower and 245 NM of torque (2.5 variant), and a 2497 CC turbocharged four-cylinder engine that can produce 290 horsepower and 422 NM of torque (2.5T variant). It drives the front wheel only via an 8-speed automatic transmission (6-speed automatic in some markets for the 2.0 variant). Its weight is over 1400 kilos. It can provide a fuel average of 9-11 kmpl in the city and 12-14 kmpl on the highway."
+            }
+        ],
+        "make": [
+            {
+                "name": "Honda"
+            },
+            {
+                "name": "Toyota"
+            },
+            {
+                "name": "Hyundai"
+            },
+            {
+                "name": "Hyundai"
+            }
+        ],
+        "model": [
+            {
+                "name": "Civic X"
+            },
+            {
+                "name": "Grande"
+            },
+            {
+                "name": "Elantra"
+            },
+            {
+                "name": "Sonata"
+            }
+        ],
+        "price": [
+    {
+        "range": "From PKR 5,200,000 to PKR 7,000,000"
+    },
+    {
+        "range": "From PKR 5,200,000 to PKR 7,200,000"
+    },
+    {
+        "range": "From PKR 6,200,000 to PKR 7,000,000"
+    },
+    {
+        "range": "From PKR 10,500,000 to PKR 12,500,000"
+    }
+],
+
+        "images": [
+            {
+                "path": "assets/images/civic.png"
+            },
+            {
+                "path": "assets/images/grande.png"
+            },
+            {
+                "path": "assets/images/elantra.png"
+            },
+            {
+                "path": "assets/images/sonata.png"
+            }
+        ],
+        "names": [
+            {
+                "name": "Honda Civic X"
+            },
+            {
+                "name": "Toyota Grande"
+            },
+            {
+                "name": "Hyundai Elantra"
+            },
+            {
+                "name": "Hyundai Sonata"
+            }
+        ]
+    },
+    "crossovers": {
+        "details": [
+            {
+                "description": "This is Kia Sportage. It has three variants Alpha, FWD, and AWD. It has a 2000 CC four-cylinder engine that can produce 155 horsepower and 196 NM of torque. It drives the front wheel or all wheels via either a 6-speed manual transmission or a 6-speed automatic transmission. Its weight is over 1500 kilos. It can provide a fuel average of 10-12 kmpl in the city and 12-14 kmpl on the highway."
+            },
+            {
+                "description": "This is Hyundai Tucson. It has two variants FWD and AWD. It has a 2000 CC four-cylinder engine that can produce 155 horsepower and 196 NM of torque. It drives the front wheel or all wheels via a 6-speed automatic transmission. Its weight is over 1500 kilos. It can provide a fuel average of 10-12 kmpl in the city and 12-14 kmpl on the highway."
+            },
+            {
+                "description": "This is MG HS. It has one variant 1.5T AWD. It has a 1500 CC four-cylinder turbocharged engine that can produce 160 horsepower and 250 NM of torque. It drives all wheels via a 7-speed automatic transmission. Its weight is over 1600 kilos. It can provide a fuel average of 11-13 kmpl in the city and 13-15 kmpl on the highway."
+            },
+            {
+                "description": "This is Changan Oshan. It has two variants Comfort and Premium. It has a 1500 CC four-cylinder turbocharged engine that can produce 155 horsepower and 225 NM of torque. It drives the front wheel only via a 7-speed DCT transmission. Its weight is over 1400 kilos. It can provide a fuel average of 12-14 kmpl in the city and 14-16 kmpl on the highway."
+            }
+        ],
+        "make": [
+            {
+                "name": "Kia"
+            },
+            {
+                "name": "Hyundai"
+            },
+            {
+                "name": "MG"
+            },
+            {
+                "name": "Changan"
+            }
+        ],
+        "model": [
+            {
+                "name": "Sportage"
+            },
+            {
+                "name": "Tucson"
+            },
+            {
+                "name": "HS"
+            },
+            {
+                "name": "Oshan"
+            }
+        ],
+        "price": [
+    {
+        "range": "From PKR 8,200,000 to PKR 9,500,000"
+    },
+    {
+        "range": "From PKR 8,000,000 to PKR 9,100,000"
+    },
+    {
+        "range": "From PKR 8,500,000 to PKR 9,800,000"
+    },
+    {
+        "range": "From PKR 7,800,000 to PKR 8,800,000"
+    }
+],
+        "images": [
+            {
+                "path": "assets/images/sportage.png"
+            },
+            {
+                "path": "assets/images/tucson.png"
+            },
+            {
+                "path": "assets/images/mg-hs.png"
+            },
+            {
+                "path": "assets/images/oshan.png"
+            }
+        ],
+        "names": [
+            {
+                "name": "Kia Sportage"
+            },
+            {
+                "name": "Hyundai Tucson"
+            },
+            {
+                "name": "MG HS"
+            },
+            {
+                "name": "Changan Oshan"
+            }
+        ]
+    },
+    "suvs": {
+        "details": [
+            {
+                "description": "This is Toyota Fortuner. It has three variants G, V, and Sigma 4. It has a 2755 CC four-cylinder engine that can produce 174 horsepower and 450 NM of torque. It drives all wheels via a 6-speed automatic transmission. Its weight is over 2100 kilos. It can provide a fuel average of 9-11 kmpl in the city and 11-13 kmpl on the highway."
+            },
+            {
+                "description": "This is Haval H6. It has two variants 1.5T and 2.0T. It has a 1500 CC four-cylinder turbocharged engine that can produce 147 horsepower and 233 NM of torque or a 2000 CC four-cylinder turbocharged engine that can produce 201 horsepower and 320 NM of torque. It drives the front wheel or all wheels via a 7-speed DCT transmission. Its weight is over 1600 kilos. It can provide a fuel average of 10-12 kmpl in the city and 12-14 kmpl on the highway."
+            },
+            {
+                "description": "This is Toyota Corolla Cross. It has three variants Low Grade, Smart Mid Grade, and Premium High Grade. It has a 1798 CC four-cylinder engine that can produce 138 horsepower and 172 NM of torque. It drives the front wheel only via a CVT transmission. Its weight is over 1320 kilos. It can provide a fuel average of 17-19 kmpl in the city and 19-21 kmpl on the highway."
+            },
+            {
+                "description": "This is DFSK Glory. It has two variants 580 Pro and 580. It has a 1500 CC four-cylinder turbocharged engine that can produce 150 horsepower and 220 NM of torque. It drives the front wheel only via a CVT transmission. Its weight is over 1500 kilos. It can provide a fuel average of 9-11 kmpl in the city and 11-13 kmpl on the highway."
+            }
+        ],
+        "make": [
+            {
+                "name": "Toyota"
+            },
+            {
+                "name": "GMC"
+            },
+            {
+                "name": "Toyota"
+            },
+            {
+                "name": "DFSK"
+            }
+        ],
+        "model": [
+            {
+                "name": "Fortuner"
+            },
+            {
+                "name": "Haval H6"
+            },
+            {
+                "name": "Corolla Cross"
+            },
+            {
+                "name": "Glory"
+            }
+        ],
+        "price": [
+    {
+        "range": "From PKR 15,000,000 to PKR 18,500,000"
+    },
+    {
+        "range": "From PKR 11,000,000 to PKR 12,500,000"
+    },
+    {
+        "range": "From PKR 12,000,000 to PKR 13,500,000"
+    },
+    {
+        "range": "From PKR 6,000,000 to PKR 7,500,000"
+    }
+],
+        "images": [
+            {
+                "path": "assets/images/fortuner.png"
+            },
+            {
+                "path": "assets/images/h6.png"
+            },
+            {
+                "path": "assets/images/cross.png"
+            },
+            {
+                "path": "assets/images/glory.png"
+            }
+        ],
+        "names": [
+            {
+                "name": "Toyota Fortuner"
+            },
+            {
+                "name": "GMC Haval H6"
+            },
+            {
+                "name": "Toyota Corolla Cross"
+            },
+            {
+                "name": "DFSK Glory"
+            }
+        ]
+    },
+    "jeeps": {
+        "details": [
+            {
+                "description": "This is Toyota Land Cruiser LC 300. It has multiple variants including GX-R, VX, and ZX. It has a 3445 CC V6 twin-turbo engine that can produce 409 horsepower and 650 NM of torque. It drives all wheels via a 10-speed automatic transmission. Its weight is over 2600 kilos. It can provide a fuel average of 7-9 kmpl in the city and 9-11 kmpl on the highway."
+            },
+            {
+                "description": "This is Toyota Prado. It has multiple variants including TX, TXL, VX, and VX-L. It has a 2755 CC four-cylinder turbocharged diesel engine that can produce 201 horsepower and 500 NM of torque. It drives all wheels via a 6-speed automatic transmission. Its weight is over 2200 kilos. It can provide a fuel average of 8-10 kmpl in the city and 10-12 kmpl on the highway."
+            },
+            {
+                "description": "This is BAIC BJ 40. It has one variant Plus. It has a 2000 CC four-cylinder turbocharged engine that can produce 215 horsepower and 320 NM of torque. It drives all wheels via a 6-speed automatic transmission. Its weight is over 1900 kilos. It can provide a fuel average of 8-10 kmpl in the city and 10-12 kmpl on the highway."
+            },
+            {
+                "description": "This is Suzuki Jimny. It has one variant Sierra. It has a 1462 CC four-cylinder engine that can produce 101 horsepower and 130 NM of torque. It drives all wheels via a 5-speed manual transmission or a 4-speed automatic transmission. Its weight is over 1100 kilos. It can provide a fuel average of 13-15 kmpl in the city and 15-17 kmpl on the highway."
+            }
+        ],
+        "make": [
+            {
+                "name": "Toyota"
+            },
+            {
+                "name": "Toyota"
+            },
+            {
+                "name": "Baic"
+            },
+            {
+                "name": "Suzuki"
+            }
+        ],
+        "price": [
+    {
+        "range": "From PKR 90,000,000 to PKR 120,000,000"
+    },
+    {
+        "range": "From PKR 45,000,000 to PKR 55,000,000"
+    },
+    {
+        "range": "From PKR 14,000,000 to PKR 15,000,000"
+    },
+    {
+        "range": "From PKR 10,000,000 to PKR 11,000,000"
+    }
+],
+        "model": [
+            {
+                "name": "Land Cruiser LC 300"
+            },
+            {
+                "name": "Prado"
+            },
+            {
+                "name": "BJ-40"
+            },
+            {
+                "name": "Jimmny"
+            }
+        ],
+        "images": [
+            {
+                "path": "assets/images/lc-300.png"
+            },
+            {
+                "path": "assets/images/prado.png"
+            },
+            {
+                "path": "assets/images/bj-40.png"
+            },
+            {
+                "path": "assets/images/jimmny.png"
+            }
+        ],
+        "names": [
+            {
+                "name": "Toyota LC 300"
+            },
+            {
+                "name": "Toyota Prado"
+            },
+            {
+                "name": "Baic BJ 40"
+            },
+            {
+                "name": "Suzuki Jimny"
+            }
+        ]
+    },
+    "electric": {
+        "details": [
+            {
+                "description": "This is Audi e-tron GT. It has two variants GT quattro and RS e-tron GT. It has dual electric motors that can produce up to 522 horsepower and 630 NM of torque or up to 637 horsepower and 830 NM of torque respectively. It drives all wheels via a single-speed automatic transmission. Its weight is over 2200 kilos. It can provide an electric range of 450-500 kilometers."
+            },
+            {
+                "description": "This is Audi e-tron 50 quattro. It has one variant e-tron 50 quattro. It has dual electric motors that can produce up to 312 horsepower and 540 NM of torque. It drives all wheels via a single-speed automatic transmission. Its weight is over 2100 kilos. It can provide an electric range of 300-350 kilometers."
+            },
+            {
+                "description": "This is BMW iX. It has multiple variants including xDrive40 and xDrive50. It has dual electric motors that can produce up to 326 horsepower and 630 NM of torque or up to 523 horsepower and 765 NM of torque respectively. It drives all wheels via a single-speed automatic transmission. Its weight is over 2500 kilos. It can provide an electric range of 400-425 kilometers."
+            },
+            {
+                "description": "This is Tesla Model 3. It has multiple variants including Standard Range Plus, Long Range, and Performance. It has a single electric motor that can produce up to 283 horsepower and 510 NM of torque or up to 450 horsepower and 639 NM of torque depending on the variant. It drives the rear wheels or all wheels via a single-speed automatic transmission. Its weight is over 1700 kilos. It can provide an electric range of 400-500 kilometers depending on the variant."
+            }
+        ],
+        "make": [
+            {
+                "name": "Audi"
+            },
+            {
+                "name": "Audi"
+            },
+            {
+                "name": "BMW"
+            },
+            {
+                "name": "TESLA"
+            }
+        ],
+        "model": [
+            {
+                "name": "e-tron GT"
+            },
+            {
+                "name": "e-tron 50 Quattro"
+            },
+            {
+                "name": "iX"
+            },
+            {
+                "name": "Model 3"
+            }
+        ],
+        "price": [
+    {
+        "range": "From PKR 30,000,000 to PKR 35,000,000"
+    },
+    {
+        "range": "From PKR 22,000,000 to PKR 25,000,000"
+    },
+    {
+        "range": "From PKR 25,000,000 to PKR 30,000,000"
+    },
+    {
+        "range": "From PKR 15,000,000 to PKR 20,000,000"
+    }
+],
+        "images": [
+            {
+                "path": "assets/images/etron-gt.png"
+            },
+            {
+                "path": "assets/images/e-tron.png"
+            },
+            {
+                "path": "assets/images/ix.png"
+            },
+            {
+                "path": "assets/images/model 3.png"
+            }
+        ],
+        "names": [
+            {
+                "name": "Audi e-tron GT"
+            },
+            {
+                "name": "Audi e-tron 50 Quattro"
+            },
+            {
+                "name": "BMW iX"
+            },
+            {
+                "name": "TESLA Model 3"
+            }
+        ]
+    },
+        "mpvs": {
+          "details": [
+            {
+              "description": "This is Toyota Hiace. It has multiple variants including Standard Roof, High Roof, and Commuter. It has a 2755 CC four-cylinder engine that can produce 154 horsepower and 420 NM of torque. It drives the rear wheels via a 6-speed manual or 6-speed automatic transmission. Its weight is over 3000 kilos. It can provide a fuel average of 8-10 kmpl in the city and 10-12 kmpl on the highway."
+            },
+            {
+              "description": "This is Kia Carnival. It has three variants LX, EX, and SX. It has a 3470 CC V6 engine that can produce 290 horsepower and 355 NM of torque. It drives the front wheel only via an 8-speed automatic transmission. Its weight is over 2100 kilos. It can provide a fuel average of 7-9 kmpl in the city and 9-11 kmpl on the highway."
+            },
+            {
+              "description": "This is Suzuki Bolan. It has one variant VX. It has an 800 CC three-cylinder engine that can produce 37 horsepower and 62 NM of torque. It drives the rear wheels via a 4-speed manual transmission. Its weight is over 550 kilos. It can provide a fuel average of 10-12 kmpl in the city and 12-14 kmpl on the highway."
+            },
+            {
+              "description": "This is Changan Karvaan. It has one variant Standard. It has a 1000 CC four-cylinder engine that can produce 68 horsepower and 92 NM of torque. It drives the rear wheels via a 5-speed manual transmission. Its weight is over 1100 kilos. It can provide a fuel average of 10-12 kmpl in the city and 12-14 kmpl on the highway."
+            }
+          ],
+          "make": [
+            {
+              "name": "Toyota"
+            },
+            {
+              "name": "Kia"
+            },
+            {
+              "name": "Suzuki"
+            },
+            {
+              "name": "Changan"
+            }
+          ],
+          "model": [
+            {
+              "name": "Hiace"
+            },
+            {
+              "name": "Carnival"
+            },
+            {
+              "name": "Bolan"
+            },
+            {
+              "name": "Karvaan"
+            }
+          ],
+          "price": [
+    {
+        "range": "From PKR 17,500,000 to PKR 20,000,000"
+    },
+    {
+        "range": "From PKR 14,000,000 to PKR 17,000,000"
+    },
+    {
+        "range": "From PKR 2,500,000 to PKR 3,000,000"
+    },
+    {
+        "range": "From PKR 3,000,000 to PKR 3,500,000"
+    }
+],
+          "images": [
+            {
+              "path": "assets/images/hiace.png"
+            },
+            {
+              "path": "assets/images/carnival.png"
+            },
+            {
+              "path": "assets/images/bolan.png"
+            },
+            {
+              "path": "assets/images/karvaan.png"
+            }
+          ],
+          "names": [
+            {
+              "name": "Toyota Hiace"
+            },
+            {
+              "name": "Kia Carnival"
+            },
+            {
+              "name": "Suzuki Bolan"
+            },
+            {
+              "name": "Changan Karvaan"
+            }
+          ]
+        },
+        "pickup": {
+          "details": [
+            {
+              "description": "This is Toyota Revo. It has multiple variants including G, V, and V Luxury. It has a 2393 CC four-cylinder engine that can produce 150 horsepower and 400 NM of torque. It drives the rear wheels or all wheels via a 6-speed manual or automatic transmission. Its weight is over 1800 kilos. It can provide a fuel average of 8-10 kmpl in the city and 10-12 kmpl on the highway."
+            },
+            {
+              "description": "This is Isuzu D-Max. It has multiple variants including 1.9D, 3.0TD, and V-Cross. It has a 1898 CC or 2999 CC four-cylinder engine that can produce up to 150 horsepower and 350 NM of torque or up to 190 horsepower and 450 NM of torque respectively. It drives the rear wheels or all wheels via a 6-speed manual or automatic transmission. Its weight is over 1900 kilos. It can provide a fuel average of 8-10 kmpl in the city and 10-12 kmpl on the highway."
+            },
+            {
+              "description": "This is Toyota Vigo. It has multiple variants including E, G, and V. It has a 2982 CC four-cylinder engine that can produce 163 horsepower and 343 NM of torque. It drives the rear wheels or all wheels via a 5-speed manual or automatic transmission. Its weight is over 1900 kilos. It can provide a fuel average of 8-10 kmpl in the city and 10-12 kmpl on the highway."
+            },
+            {
+              "description": "This is Pre-Facelifted Toyota Revo. It has multiple variants including G, V, and V Luxury. It has a 2393 CC four-cylinder engine that can produce 150 horsepower and 400 NM of torque. It drives the rear wheels or all wheels via a 6-speed manual or automatic transmission. Its weight is over 1800 kilos. It can provide a fuel average of 8-10 kmpl in the city and 10-12 kmpl on the highway."
+            }
+          ],
+          "make": [
+            {
+              "name": "Toyota"
+            },
+            {
+              "name": "Isuzu"
+            },
+            {
+              "name": "Toyota"
+            },
+            {
+              "name": "Toyota"
+            }
+          ],
+          "model": [
+            {
+              "name": "Revo"
+            },
+            {
+              "name": "D Max"
+            },
+            {
+              "name": "Vigo"
+            },
+            {
+              "name": "Pre-Facelifted Revo"
+            }
+          ],
+          "price": [
+    {
+        "range": "From PKR 14,000,000 to PKR 17,000,000"
+    },
+    {
+        "range": "From PKR 12,000,000 to PKR 14,000,000"
+    },
+    {
+        "range": "From PKR 6,500,000 to PKR 8,000,000"
+    },
+    {
+        "range": "From PKR 8,000,000 to PKR 10,000,000"
+    }
+],
+          "images": [
+            {
+              "path": "assets/images/revo.png"
+            },
+            {
+              "path": "assets/images/d-max.png"
+            },
+            {
+              "path": "assets/images/vigo.png"
+            },
+            {
+              "path": "assets/images/hilux.png"
+            }
+          ],
+          "names": [
+            {
+              "name": "Toyota Revo"
+            },
+            {
+              "name": "Isuzu D Max"
+            },
+            {
+              "name": "Toyota Vigo"
+            },
+            {
+              "name": "Pre-Facelifted Toyota Revo"
+            }
+          ]
+        },
+        "sportscars": {
+          "details": [
+            {
+              "description": "This is W204 Mercedes-AMG C63. It has a 6208 CC V8 engine that can produce 451 horsepower and 600 NM of torque. It drives the rear wheels via a 7-speed automatic transmission. Its weight is over 1700 kilos. It can provide a fuel average of 8-10 kmpl in the city and 10-12 kmpl on the highway."
+            },
+            {
+              "description": "This is BMW M3 E92. It has a 3999 CC V8 engine that can produce 414 horsepower and 400 NM of torque. It drives the rear wheels via a 6-speed manual or automatic transmission. Its weight is over 1600 kilos. It can provide a fuel average of 8-10 kmpl in the city and 10-12 kmpl on the highway."
+            },
+            {
+              "description": "This is Mazda RX8. It has a 1308 CC twin-rotor Wankel engine that can produce 228 horsepower and 211 NM of torque. It drives the rear wheels via a 6-speed manual or automatic transmission. Its weight is over 1400 kilos. It can provide a fuel average of 8-10 kmpl in the city and 10-12 kmpl on the highway."
+            },
+            {
+              "description": "This is Nissan 350Z. It has a 3498 CC V6 engine that can produce 306 horsepower and 353 NM of torque. It drives the rear wheels via a 6-speed manual or automatic transmission. Its weight is over 1500 kilos. It can provide a fuel average of 8-10 kmpl in the city and 10-12 kmpl on the highway."
+            }
+          ],
+          "make": [
+            {
+              "name": "Mercedes"
+            },
+            {
+              "name": "BMW"
+            },
+            {
+              "name": "Mazda"
+            },
+            {
+              "name": "Nissan"
+            }
+          ],
+          "model": [
+            {
+              "name": "AMG C 63"
+            },
+            {
+              "name": "M3"
+            },
+            {
+              "name": "RX 8"
+            },
+            {
+              "name": "350 Z"
+            }
+          ],
+          "price": [
+    {
+        "range": "From PKR 15,000,000 to PKR 20,000,000"
+    },
+    {
+        "range": "From PKR 12,000,000 to PKR 16,000,000"
+    },
+    {
+        "range": "From PKR 4,000,000 to PKR 6,000,000"
+    },
+    {
+        "range": "From PKR 7,000,000 to PKR 10,000,000"
+    }
+],
+          "images": [
+            {
+              "path": "assets/images/c63.png"
+            },
+            {
+              "path": "assets/images/m3.png"
+            },
+            {
+              "path": "assets/images/rx8.png"
+            },
+            {
+              "path": "assets/images/350z.png"
+            }
+          ],
+          "names": [
+            {
+              "name": "W204 Mercedes AMG C 63"
+            },
+            {
+              "name": "E92 BMW M3"
+            },
+            {
+              "name": "Mazda RX 8"
+            },
+            {
+              "name": "Nissan 350 Z"
+            }
+          ]
+        },
+            "used-cars": {
+              "details": [
+                {
+                  "description": "This is Honda City 5th Gen. It has multiple variants including i-VTEC and Aspire. It has a 1497 CC inline-4 engine that can produce 118 horsepower and 145 NM of torque. It drives the front wheels via a 5-speed manual or automatic transmission. Its weight is over 1150 kilos. It can provide a fuel average of 12-14 kmpl in the city and 14-16 kmpl on the highway."
+                },
+                {
+                  "description": "This is Toyota Corolla. It has multiple variants including XLi, GLi, and Altis. It has a 1298 CC inline-4 engine that can produce 84 horsepower and 121 NM of torque. It drives the front wheels via a 5-speed manual or 4-speed automatic transmission. Its weight is over 1275 kilos. It can provide a fuel average of 10-12 kmpl in the city and 12-14 kmpl on the highway."
+                },
+                {
+                  "description": "This is Honda Civic Reborn. It has multiple variants including VTi and VTi Oriel. It has a 1799 CC inline-4 engine that can produce 140 horsepower and 174 NM of torque. It drives the front wheels via a 5-speed manual or automatic transmission. Its weight is over 1250 kilos. It can provide a fuel average of 9-11 kmpl in the city and 11-13 kmpl on the highway."
+                },
+                {
+                  "description": "This is Suzuki Alto 5th Gen. It has multiple variants including VX and VXR. It has a 658 CC inline-3 engine that can produce 39 horsepower and 56 NM of torque. It drives the front wheels via a 5-speed manual or automatic transmission. Its weight is over 650 kilos. It can provide a fuel average of 18-20 kmpl in the city and 20-22 kmpl on the highway."
+                }
+              ],
+              "make": [
+                {
+                  "name": "Honda"
+                },
+                {
+                  "name": "Toyota"
+                },
+                {
+                  "name": "Honda"
+                },
+                {
+                  "name": "Suzuki"
+                }
+              ],
+              "model": [
+                {
+                  "name": "City 5th Gen"
+                },
+                {
+                  "name": "Corolla"
+                },
+                {
+                  "name": "Civic Reborn"
+                },
+                {
+                  "name": "Alto 5th Gen"
+                }
+              ],
+              "price": [
+                {
+                  "range": "From PKR 2,500,000 to PKR 3,200,000"
+                },
+                {
+                  "range": "From PKR 1,200,000 to PKR 1,800,000"
+                },
+                {
+                  "range": "From PKR 1,500,000 to PKR 2,200,000"
+                },
+                {
+                  "range": "From PKR 1,000,000 to PKR 1,400,000"
+                }
+              ],
+              "images": [
+                {
+                  "path": "assets/images/old_city.png"
+                },
+                {
+                  "path": "assets/images/corolla.png"
+                },
+                {
+                  "path": "assets/images/reborn.png"
+                },
+                {
+                  "path": "assets/images/old_alto.png"
+                }
+              ],
+              "names": [
+                {
+                  "name": "Honda City 5th Gen"
+                },
+                {
+                  "name": "Toyota Corolla"
+                },
+                {
+                  "name": "Honda Civic Reborn"
+                },
+                {
+                  "name": "Suzuki Alto 5th Gen"
+                }
+              ]
+            },
+              "destination_1": [
+                {
+                  "name": "Murree",
+                  "location": "Punjab Province",
+                  "highlights": [
+                    "Mall Road: A bustling street with shops, restaurants, and hotels.",
+                    "Pindi Point: Offers panoramic views of the city.",
+                    "Patriata (New Murree): Known for its chair lift and cable car rides."
+                  ],
+                  "activities": [
+                    "Hiking and Trekking: Numerous trails with scenic views.",
+                    "Horse Riding: Available at various points, especially on Mall Road.",
+                    "Cable Car Ride: Experience the beautiful landscape from Patriata to New Murree."
+                  ],
+                  "best_time_to_visit": "April to October for pleasant weather, December to February for snowfall."
+                }
+              ],
+              "destination_2": [
+                {
+                  "name": "Skardu",
+                  "location": "Gilgit-Baltistan",
+                  "highlights": [
+                    "Shangrila Resort (Heaven on Earth): A picturesque resort by Lower Kachura Lake.",
+                    "Deosai National Park: Known as the Land of Giants, home to diverse flora and fauna.",
+                    "Skardu Fort: Offers historical insights and stunning views."
+                  ],
+                  "activities": [
+                    "Camping: In Deosai National Park.",
+                    "Trekking: To high-altitude lakes like Sheosar Lake.",
+                    "Jeep Safari: Through the rugged terrains of the Skardu Valley."
+                  ],
+                  "best_time_to_visit": "April to October for optimal weather conditions."
+                }
+              ],
+              "destination_3": [
+                {
+                  "name": "Fairy Meadows",
+                  "location": "Gilgit-Baltistan",
+                  "highlights": [
+                    "Nanga Parbat View: Stunning views of the 9th highest mountain in the world.",
+                    "Fairy Meadows National Park: A serene, scenic park offering breathtaking landscapes.",
+                    "Tato Village: Traditional village en route to Fairy Meadows."
+                  ],
+                  "activities": [
+                    "Camping: At one of the most beautiful camping sites in Pakistan.",
+                    "Hiking: Numerous trails with stunning mountain views.",
+                    "Photography: Capturing the scenic beauty and wildlife."
+                  ],
+                  "best_time_to_visit": "May to September for the best weather and accessibility."
+                }
+              ],
+              "destination_4": [
+                {
+                  "name": "Swat Valley",
+                  "location": "Khyber Pakhtunkhwa Province",
+                  "highlights": [
+                    "Malam Jabba: Famous ski resort.",
+                    "Kalam Valley: Known for its lush greenery and rivers.",
+                    "Mahodand Lake: Beautiful lake surrounded by mountains."
+                  ],
+                  "activities": [
+                    "Skiing: At Malam Jabba during winter.",
+                    "Boating: On the serene waters of Mahodand Lake.",
+                    "Fishing: In the rivers and lakes of Kalam Valley."
+                  ],
+                  "best_time_to_visit": "April to October for mild weather, December to February for skiing."
+                }
+              ],
+              "destination_5": [
+                {
+                  "name": "Lahore",
+                  "location": "Punjab Province",
+                  "highlights": [
+                    "Badshahi Mosque: One of the largest mosques in the world.",
+                    "Lahore Fort: A UNESCO World Heritage site.",
+                    "Shalimar Gardens: Mughal-era gardens with beautiful landscaping."
+                  ],
+                  "activities": [
+                    "Historical Tours: Explore the rich Mughal history at various sites.",
+                    "Shopping: At Anarkali Bazaar and Liberty Market.",
+                    "Culinary Tours: Experience the diverse food culture, especially in the old city."
+                  ],
+                  "best_time_to_visit": "October to March for cooler weather."
+                }
+              ],
+              "destination_6": [
+                {
+                  "name": "Neelum Valley",
+                  "location": "Azad Kashmir",
+                  "highlights": [
+                    "Keran: A scenic spot along the Neelum River.",
+                    "Sharda: Known for its ancient Buddhist ruins and picturesque landscapes.",
+                    "Ratti Gali Lake: An alpine glacial lake with breathtaking views."
+                  ],
+                  "activities": [
+                    "Fishing: In the clear waters of the Neelum River.",
+                    "Trekking: Numerous trails leading to beautiful spots.",
+                    "Boating: On serene lakes like Ratti Gali."
+                  ],
+                  "best_time_to_visit": "April to October for mild weather and clear roads."
+                }
+              ],
+              "destination_7": [
+                {
+                  "name": "Hunza Valley",
+                  "location": "Gilgit-Baltistan",
+                  "highlights": [
+                    "Baltit Fort: A 700-year-old fort with rich history.",
+                    "Attabad Lake: Created by a landslide, known for its stunning turquoise water.",
+                    "Eagle’s Nest: Offers spectacular views of the surrounding peaks."
+                  ],
+                  "activities": [
+                    "Trekking: Various trails, including the Ultar Sar Base Camp.",
+                    "Boating: Enjoy the crystal-clear waters of Attabad Lake.",
+                    "Cultural Tours: Explore local Hunza culture and cuisine."
+                  ],
+                  "best_time_to_visit": "April to October for clear skies and pleasant weather."
+                }
+              ],
+              "destination_8": [
+                {
+                  "name": "Karachi",
+                  "location": "Sindh Province",
+                  "highlights": [
+                    "Clifton Beach: A popular beach with various recreational activities.",
+                    "Mohatta Palace: A museum showcasing art and culture.",
+                    "Quaid’s Mausoleum: The resting place of Pakistan's founder, Muhammad Ali Jinnah."
+                  ],
+                  "activities": [
+                    "Beach Activities: Swimming, camel rides, and beach sports at Clifton.",
+                    "Cultural Tours: Visit the National Museum of Pakistan.",
+                    "Shopping: At Saddar Bazaar and Tariq Road."
+                  ],
+                  "best_time_to_visit": "November to March for cooler weather."
+                }
+              ],
+              "destination_9": [
+                {
+                  "name": "Islamabad",
+                  "location": "Capital Territory",
+                  "highlights": [
+                    "Faisal Mosque: One of the largest mosques in the world.",
+                    "Daman-e-Koh: A viewpoint that offers panoramic views of the city.",
+                    "Pakistan Monument: A national monument symbolizing the four provinces of Pakistan."
+                  ],
+                  "activities": [
+                    "Sightseeing: Exploring the modern city and its landmarks.",
+                    "Hiking: Trails in the Margalla Hills National Park.",
+                    "Cultural Visits: Museums and cultural centers like Lok Virsa."
+                  ],
+                  "best_time_to_visit": "March to April and September to November for pleasant weather."
+                }
+              ]
+            }
+                        

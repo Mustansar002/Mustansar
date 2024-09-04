@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "948847214685",
+    "project_id": "auto-30725",
+    "storage_bucket": "auto-30725.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948847214685:android:c06f0dedebc8cbdf3a8db4",
+        "android_client_info": {
+          "package_name": "com.example.auto_aura"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs3gLAOb30xeVeBPA7ShKN_p7MGirYKw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
